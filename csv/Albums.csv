@@ -1,0 +1,10 @@
+album_id,album_type,name,date_released,label_company,num_song,total_time,artist_email
+1,album,"thank u, next",2019-02-28,Republic Records,12,2460,arianagrande@gmail.com
+2,single,Stuck with U,2020-05-08,"Silent Records Ventures, LLC",1,228,arianagrande@gmail.com
+3,album,This Is Acting (Deluxe Version),2016-01-29,Monkey Puzzle Records,19,4440,sia321@gmail.com
+4,album,Starboy,2016-11-25,"The Weeknd XO, Inc.",16,4080,theweeknd@gmail.com
+5,album,After Hours,2020-03-20,"The Weeknd XO, Inc.",14,3360,theweeknd@gmail.com
+6,album,Blonde,2016-08-20,Boys Don't Cry,17,3600,franko@yahoo.com
+7,album,Stoney(Deluxe),2016-12-09,Republic Records,18,4080,postm@gmail.com
+8,album,BALLADS 1,2018-10-26,88rising Records,12,2100,jooooji@gmail.com
+9,single,Any song,2020-01-13,KOZ ENTERTAINMENT,1,227,zico@yahoo.com
